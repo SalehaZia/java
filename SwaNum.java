@@ -1,5 +1,5 @@
 package day3;
-
+// swap two numbers
 import java.util.Scanner;
 
 public class SwaNum {
